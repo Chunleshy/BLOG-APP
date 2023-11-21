@@ -1,8 +1,7 @@
-# BLOG-APP
+# DevDiaries BLOG-APP
 This App is design with Docker, Django and Python by Olukunle Amoo
 ## About This Application
-The JPM Incident Management System (JPM-IMS) App is a robust and user-friendly solution designed to streamline the handling of incidents and service requests in organizations of all sizes. This application offers an integrated platform to effectively capture, monitor, prioritize, and resolve issues or incidents reported by users or detected by system monitoring.
-This App is a versatile, all-in-one solution that empowers organizations to provide faster incident resolution, enhance service quality, and ultimately increase customer satisfaction. It's a vital tool for maintaining the integrity of operations and minimizing the impact of unexpected incidents.
+DevDiaries is where coding newbies share their journeys! Celebrate wins, tackle challenges, and connect with a supportive community. Showcase your progress, learn from others, and access beginner-friendly resources. Your coding story deserves a spotlight—join DevDiaries and inspire the next generation of coders! 🌐✨
 
 
 ## Installation
