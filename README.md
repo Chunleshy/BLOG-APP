@@ -63,7 +63,7 @@ samples, guidance on mobile development, and a full API reference.
 
 ## License
 An Incident management system App design for JPM Inc to resolve costomer complaints and other related issues. This App is design with Docker, Django and Python by Olukunle Amoo
-It is Licensed under [MIT Lisence.](https://github.com/Chunleshy/DevDiaries/blob/main/LICENSE))
+It is Licensed under [MIT Lisence.](https://github.com/Chunleshy/BLOG-AAPP/blob/main/LICENSE))
 
 Copyright (C) 2023 Chunlesy, unless otherwise indicated.
 
